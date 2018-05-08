@@ -1,0 +1,6 @@
+C:\Users\ING\Desktop\big-sister-fjgimenez-master\LabPOO\bin\Debug\LabPOO.exe.config
+C:\Users\ING\Desktop\big-sister-fjgimenez-master\LabPOO\bin\Debug\LabPOO.exe
+C:\Users\ING\Desktop\big-sister-fjgimenez-master\LabPOO\bin\Debug\LabPOO.pdb
+C:\Users\ING\Desktop\big-sister-fjgimenez-master\LabPOO\obj\Debug\LabPOO.csproj.CoreCompileInputs.cache
+C:\Users\ING\Desktop\big-sister-fjgimenez-master\LabPOO\obj\Debug\LabPOO.exe
+C:\Users\ING\Desktop\big-sister-fjgimenez-master\LabPOO\obj\Debug\LabPOO.pdb
